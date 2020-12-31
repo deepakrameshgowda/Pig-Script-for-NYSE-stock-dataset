@@ -1,1 +1,1 @@
-# PIG-SCRIPT for NYSE stock data
+# PIG-SCRIPT 
