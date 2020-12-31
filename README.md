@@ -4,7 +4,7 @@ The data is analysed using one of the scripting language called PIG.
 The codes for analysing the data is also provided.
 The objective of the study was to analyze the stock trade data to find the maximum and minimum traded stock on a day for a given week. 
 
-The analysis done requires chaging the dates (in code: z = filter data by date == '2009-12-31' or date == '2009-12-30' or date == '2009-12-29' or date == '2009-12-28' or date == '2009-12-24' or date == '2009-12-23' or date == '2009-12-22';) to get the maximum and minimum traded stock data, and the other lines of code statys same for processing. Because of the inconvenience created due to network issue the complete output was not able to be uploaded. 
+The analysis done requires chaging the dates (in code: z = filter data by date == '2009-12-31' or date == '2009-12-30' or date == '2009-12-29' or date == '2009-12-28' or date == '2009-12-24' or date == '2009-12-23' or date == '2009-12-22';) to find out the maximum and minimum traded stock data, and the other lines of code stays same for processing. Because of the inconvenience created due to network issue the complete output was not able to be uploaded. 
 
 Hope my efforts are acceptable.
 
